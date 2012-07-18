@@ -25,7 +25,6 @@ namespace Upscreen.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("YOUR_ANON_API_KEY_FROM_IMGUR")]
         public string AnonAPI {
             get {
                 return ((string)(this["AnonAPI"]));

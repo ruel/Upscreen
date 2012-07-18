@@ -2,8 +2,8 @@
 <SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Upscreen.Properties" GeneratedClassName="Settings">
   <Profiles />
   <Settings>
-    <Setting Name="AnonAPI" Type="System.String" Scope="User">
-      <Value Profile="(Default)">YOUR_ANON_API_KEY_FROM_IMGUR</Value>
+    <Setting Name="AnonAPI" GenerateDefaultValueInCode="false" Type="System.String" Scope="User">
+      <Value Profile="(Default)">9dca05d56a6e095019131f0da36d2fe8</Value>
     </Setting>
   </Settings>
 </SettingsFile>
